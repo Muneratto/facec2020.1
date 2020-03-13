@@ -1,0 +1,19 @@
+body{
+    background: #eee;
+    padding: 0px;
+    margin: 0px;
+    border-top: 5px #e11f00 solid;
+}
+
+header{
+    background: #FFF;
+}
+.logo{
+    padding: 10px;
+    text-align: center;
+}
+
+#menu{
+    border-top:  1px #EEE solid;
+    border-bottom:  1px #EEE solid;
+}
